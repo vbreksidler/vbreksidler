@@ -15,3 +15,5 @@ docker run --name <nome-do-container> -p 27017:27017 -d mongo
 ```sh
 docker ps
 ```
+
+ > Rode os serviços `node` e `mongodb` com o comando `docker-compose up -d`.
