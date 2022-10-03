@@ -1,3 +1,22 @@
+_PORTUGUÊS__:brazil:______________________________________
+<h1>
+ Olá Mundo! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  meu nome é Victor e estou preparado para trabalhar!
+</h1>
+
+_______________________________________________________
+
+
+- :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web..
+
+- :seedling: Estou estudando na Trybe Online Programming School
+
+- :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
+
+_ENGLISH__________________________________________________
+
+
 <h1>
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
