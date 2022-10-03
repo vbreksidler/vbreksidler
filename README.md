@@ -7,7 +7,7 @@
 
 _____________________________________________________
 
-- :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web..
+- :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web.
 
 - :seedling: Estou estudando na Trybe Escola de Programação Online
 
