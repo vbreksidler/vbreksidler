@@ -4,3 +4,8 @@ HABILIDADES DESENVOLVIDAS NO PROJETO
   - Manipular Javascript
 </h1>
 
+<h1>
+SKILLS DEVELOPED IN THE PROJECT
+  - Handle CSS
+  - Handle Javascript
+</h1>
