@@ -13,13 +13,8 @@ _______________________________________________________
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
 
-<a align="center" dir="auto" href="https://github.com/vbreksidler/github-readme-stats">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vbreksidler&show_icons=true&theme=radical" />
-</a>
-
-<a align="center" dir="auto" href="https://github.com/vbreksidler/github-readme-stats">
-  <img align="right" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbreksidler&show_icons=true&theme=radical&layout=compact" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=vbreksidler&theme=radical&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vbreksidler&theme=radical)
 
 <div align="center" dir="auto">
   <img position="fixed" align="left" src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="26%" height="245"/>
