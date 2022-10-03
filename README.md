@@ -13,7 +13,7 @@ _______________________________________________________
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vbreksidler&theme=radical&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vbreksidler&theme=radical&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vbreksidler&theme=radical)
 
 <div align="center" dir="auto">
