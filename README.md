@@ -1,11 +1,11 @@
 <h1>
+ <img src="https://media.giphy.com/media/yOBSV38yqFVLBDPTi9/giphy.gif" width="30px"/>
  Olá Mundo! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   meu nome é Victor e estou preparado para trabalhar!
 </h1>
 
-_______________________________________________________
-
+_____________________________________________________
 
 - :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web..
 
@@ -14,6 +14,7 @@ _______________________________________________________
 - :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
 
 <h1>
+  <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   my name is Victor and i'm ready to work!
