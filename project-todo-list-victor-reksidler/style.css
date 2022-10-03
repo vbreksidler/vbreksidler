@@ -1,0 +1,89 @@
+/* A maioria das estilizações busquei nos seguintes links(como nao aprendemos algumas delas, segue a referencia):
+https://html-css-js.com/css/generator/font/
+https://www.bestcssbuttongenerator.com/#/11 */
+
+.lista-cor{
+    padding: 5px;
+    width:max-content;
+    margin: 5px;
+    border: dashed black 1px;
+    
+}
+
+#lista-tarefas{
+    padding-right: 30px;
+    margin-left: 125px;
+    margin-right: 0px;
+    background-color: rgba(126, 107, 54, 0.548);
+    width:fit-content;
+    border: groove rgb(102, 70, 34) 2px;
+}
+
+#cabecalho{
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 25px;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: overline solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+}
+
+li{
+    font-family: "Lucida Console", Monaco, monospace;
+    color: #000000;
+    font-weight: normal;
+    text-decoration:rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+}
+
+#funcionamento{
+    margin-left: 25px;
+    color: #0000009d;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+#texto-tarefa{
+    margin-left: 105px;
+}
+
+button {
+	box-shadow:inset 0px 1px 0px 0px #a6827e;
+	background:linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+	background-color:#7d5d3b;
+	border-radius:3px;
+	border:1px solid #54381e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #4d3534;
+}
+button:hover {
+	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+	background-color:#634b30;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+#theme{
+    background-color: rgb(156, 144, 112);
+    padding-left: 80px;
+    padding-bottom:70px ;
+    padding-top:50px ;
+    width: 500px
+}
