@@ -7,7 +7,7 @@
 _______________________________________________________
 
 
-- :telescope: I’m working as a Software Engineer FullStack and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Web Developer FullStack and contributing to frontend and backend for building web applications.
 
 - :seedling: I'm studying in Trybe Online Programming School
 
