@@ -13,9 +13,9 @@ _______________________________________________________
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
 
-<p><img align="left" style="max-width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbreksidler&theme=radical&show_icons=true&locale=en&layout=compact" alt="vbreksidler" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbreksidler&theme=radical&show_icons=true&locale=en&layout=compact" alt="vbreksidler" /></p>
 
-<p>&nbsp;<img align="center" style="max-width: 60%;" src="https://github-readme-stats.vercel.app/api?username=vbreksidler&theme=radical&show_icons=true&locale=en" alt="vbreksidler" /></p>
+<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=vbreksidler&theme=radical&show_icons=true&locale=en" alt="vbreksidler" /></p>
 
 <div align="center" dir="auto">
   <img position="fixed" align="left" src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="26%" height="245"/>
