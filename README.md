@@ -4,14 +4,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   meu nome é Victor e estou preparado para trabalhar!
 </h1>
-
 _____________________________________________________
 
 - :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web.
 
 - :seedling: Estudante de Desenvolvimento de Software | Trybe
 
-- :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
+- :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
 <h1>
   <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
@@ -27,7 +26,7 @@ _______________________________________________________
 
 - :seedling: Student in Trybe Online Programming School
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
 <p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbreksidler&theme=radical&show_icons=true&locale=en&layout=compact" alt="vbreksidler" /></p>
 
