@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/yOBSV38yqFVLBDPTi9/giphy.gif" width="30px"/>
  Olá Mundo! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  meu nome é Victor e estou preparado para trabalhar!
+  meu nome é Victor!
 </h1>
 _____________________________________________________
 
@@ -18,7 +18,7 @@ _____________________________________________________
   <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  my name is Victor and i'm ready to work!
+  my name is Victor!
 </h1>
 
 _______________________________________________________
