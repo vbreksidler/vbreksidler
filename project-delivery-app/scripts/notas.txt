@@ -1,0 +1,18 @@
+Ações: Cores diferente
+informação: cores diferente
+botao de finalizar
+
+Paleta:
+
+Quente
+---------
+#f40905 - vermelho
+#fd7c20 - laranja
+#fdbc02 - amarelo queimado
+#ffcf4f - amarelo
+#8ea97c - verde claro
+#537d73 - verde azul
+#436253 - verde escuro
+#3e4758 - azul escuro
+---------
+Frio

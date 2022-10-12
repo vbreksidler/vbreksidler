@@ -1,0 +1,192 @@
+.FlexContainer {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+.Form {
+  background-color: #fd7c20;
+  display: flex;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.LoginForm,
+.RegisterForm {
+  border-bottom: 1px transparent black;
+  border-right: 1px transparent black;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  border-radius: 5px;
+  flex-direction: column;
+  padding: 10px;
+  width: fit-content;
+}
+
+.AdminForm {
+  align-items: center;
+  box-shadow: 0 3px 10px #b5b5b5;
+  justify-content: center;
+  padding: 10px;
+}
+
+.FormField {
+  font-family: inherit;
+  font-size: 1rem;
+  display: inline-flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.FormFieldName {
+  border: none;
+  box-shadow: none;
+  background-color: #fd7c20;
+  font-family: inherit;
+  font-size: 1rem;
+  margin: 0 3px;
+}
+
+.FormFieldInput,
+.Button {
+  border-bottom: 1px transparent black;
+  border-right: 1px transparent black;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  border-radius: 5px;
+  outline: none;
+}
+
+.FormFieldInput {
+  background-color: white;
+  border: 1px solid #b1c2be;
+  color: black;
+  font: inherit;
+  height: 32px;
+  margin-top: 5px;
+  padding: 0 5px;
+  width: 250px;
+}
+
+.Button {
+  border: none;
+  font-family: inherit;
+  font-size: 1rem;
+  height: 36px;
+  margin: 8px;
+  padding: 0 8px;
+}
+
+.LoginForm .Button,
+.RegisterForm .Button {
+  margin: 15px 5px 5px;
+}
+
+.ButtonLogin {
+  background-color: white;
+  border: 1px solid #b1c2be;
+  color: #3e4758;
+}
+
+.ButtonLogin:hover{
+  color: black;
+  background: #ffcf4f;
+}
+
+.ButtonRegister {
+  background: #fdbc02;
+  color: black;
+}
+
+.ButtonRegister:hover{
+  background: #fdbc02;
+}
+
+.Button:disabled {
+  background-color: #e0e0e0;
+  border: 1px solid #b1c2be;
+  color: #fd7c20;
+}
+
+.FlexContainerNav {
+  margin-bottom: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: right;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+.NavContainer{
+  padding-bottom: 180px;
+  border: 2px solid lightslategray;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  height: 200px;
+  min-width: 600px;
+  background-color: #ff6a00;
+}
+
+.botaoNav {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: none;
+  font-family: inherit;
+  font-size: 1rem;
+  border-bottom: 1px transparent black;
+  border-right: 1px transparent black;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  background-color: #fdbc02;
+  border-radius: 5px;
+  color: black;
+  height: 10%;
+  right: 10px;
+  width: 200px;
+}
+
+.nameNavBar {
+  border-radius: 5px;
+  border-bottom: 1px transparent black;
+  border-right: 1px transparent black;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  color: black;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 10px;
+  background-color: #fdbc02;
+  position: fixed;
+  top: 5px;
+  align-items: left;
+  display: flex;
+  justify-content: left;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.buttonLogout {
+  margin: 10px;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  background-color: #fdbc02;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: inherit;
+  font-size: 1rem;
+  color: black;
+  margin-bottom: 1px;
+}
+
+a{
+  color: black;
+  font-family: inherit;
+  font-size: 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.botaoNav:hover, .buttonLogout:hover{
+  background-color: #ffcf4f;
+}
+
+a:visited {
+  color: black;
+}
