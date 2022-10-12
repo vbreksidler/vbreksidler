@@ -1,0 +1,81 @@
+.container {
+    border: 2px solid lightslategray;
+    padding: 30px;
+    background-color: #ff6a00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding-inline: 20px;
+    box-shadow: 1px 1px 1px 1px lightslategray;
+    
+}
+
+.cardContainer {
+    background-color: white;
+    padding: 15px;
+    border-bottom: 1px transparent black;
+    border-right: 1px transparent black;
+    box-shadow: 1px 1px 1px 1px lightslategray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    width: 200px;
+    p, span{
+        margin: 10px;
+        border-bottom: 1px transparent black;
+        border-right: 1px transparent black;
+        box-shadow: 0.5px 0.5px 0.5px 0.5px lightslategray;
+        color: black;
+        background-color: #fdbc02 ;
+        border-radius: 5px;
+        padding: 5px;
+        font-family: inherit;
+        font-size: 1rem; 
+        margin-bottom:1px ; 
+    }
+    img{
+        padding: 20px;
+        border-radius: 100%;
+        margin: 15px;
+        box-shadow: 1px 1px 3px 5px #fd7c20 ;
+    }
+    .QuantityButtonContainer{
+        padding: 10px;
+        display: flex;
+        gap: 2px;
+        button:active{
+            color:#ffcf4f;
+        }
+        button:hover{
+            background: #ffcf4f;
+        }
+        button{
+            border: none;
+            box-shadow: 1px 1px 1px 1px lightslategray;           
+            font-family: inherit;
+            font-size: 1rem;
+            color: black;
+            border-radius: 15%;
+            padding: 5px;
+            padding-left: 15px;
+            padding-right: 15px;
+            background-color: #fdbc02;
+        }
+        input{
+            border: none;
+            padding-left: 14px;
+            font-family: inherit;
+            font-size: 1rem;
+            color: black;
+            background-color: #fdbc02;
+            box-shadow: 1px 1px 1px 1px lightslategray;
+            margin-left: 10px;
+            margin-right: 10px;
+            border-radius: 15%;
+            width: 50px;
+        }
+    }
+}
