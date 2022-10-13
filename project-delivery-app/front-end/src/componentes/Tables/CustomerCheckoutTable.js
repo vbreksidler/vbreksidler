@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { CartContext } from '../../contexts/CartContext';
 import TableRowItems from './TableRowItems';
 import CustomerOrderTotalPrice
-  from '../../componentes/TotalPrice/CustomerOrderTotalPrice';
+  from '../TotalPrice/CustomerOrderTotalPrice';
 import styles from './styles.module.scss';
 
 export default function CustomerCheckoutTable() {
@@ -16,7 +16,7 @@ export default function CustomerCheckoutTable() {
   };
 
   return (
-    <div className={styles.CustomerCheckoutContainer}>
+    <div className={ styles.CustomerCheckoutContainer }>
       <div>
         <table>
           <tbody>
@@ -35,7 +35,7 @@ export default function CustomerCheckoutTable() {
                     />
                     <td>
                       <button
-                        className={styles.removeButton}
+                        className={ styles.removeButton }
                         type="button"
                         data-testid={
                           `customer_checkout__element-order-table-remove-${index}`

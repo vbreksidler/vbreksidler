@@ -73,49 +73,50 @@ function Products() {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={ styles.container }>
       {products.map?.((product, index) => (
         <div
-          className={styles.cardContainer}
-          key={index}
+          className={ styles.cardContainer }
+          key={ index }
         >
           <p
-            data-testid={`customer_products__element-card-title-${product.id}`}
+            data-testid={ `customer_products__element-card-title-${product.id}` }
           >
-            {product.name}
+            { product.name }
           </p>
           <span
-            data-testid={`customer_products__element-card-price-${product.id}`}
+            data-testid={ `customer_products__element-card-price-${product.id}` }
           >
-            R$ {product.price.replace('.', ',')}
+            R$
+            { product.price.replace('.', ',') }
           </span>
           <img
-            src={product.urlImage}
-            alt={product.name}
+            src={ product.urlImage }
+            alt={ product.name }
             width="100px"
-            data-testid={`customer_products__img-card-bg-image-${product.id}`}
+            data-testid={ `customer_products__img-card-bg-image-${product.id}` }
           />
-          <div className={styles.QuantityButtonContainer}>
+          <div className={ styles.QuantityButtonContainer }>
             <button
               type="button"
-              data-testid={`customer_products__button-card-rm-item-${product.id}`}
-              onClick={() => changeProductsQuantity('decrement', product)}
+              data-testid={ `customer_products__button-card-rm-item-${product.id}` }
+              onClick={ () => changeProductsQuantity('decrement', product) }
             >
               -
             </button>
             <input
               type="text"
               className="inputQuantity"
-              name={product.id}
-              defaultValue={0}
-              value={input[product.id]}
-              data-testid={`customer_products__input-card-quantity-${product.id}`}
-              onChange={(e) => handleInput(e)}
+              name={ product.id }
+              defaultValue={ 0 }
+              value={ input[product.id] }
+              data-testid={ `customer_products__input-card-quantity-${product.id}` }
+              onChange={ (e) => handleInput(e) }
             />
             <button
               type="button"
-              data-testid={`customer_products__button-card-add-item-${product.id}`}
-              onClick={() => changeProductsQuantity('increment', product)}
+              data-testid={ `customer_products__button-card-add-item-${product.id}` }
+              onClick={ () => changeProductsQuantity('increment', product) }
             >
               +
             </button>
@@ -123,9 +124,9 @@ function Products() {
         </div>
       ))}
       <BotaoVerdeEscuro
-        click={handleSetCart}
-        placeholder={getTotalPrice()}
-        isDisabled={checkoutDisable}
+        click={ handleSetCart }
+        placeholder={ getTotalPrice() }
+        isDisabled={ checkoutDisable }
       />
     </div>
   );

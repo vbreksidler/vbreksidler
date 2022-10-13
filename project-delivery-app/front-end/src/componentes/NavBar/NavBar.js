@@ -12,7 +12,9 @@ function NavBar({ children }) {
         className="nameNavBar"
         data-testid="customer_products__element-navbar-user-full-name"
       >
-        Olá, {name} !
+        Olá,
+        { name }
+        !
       </p>
       <div className="FlexContainerNav">
         <div className="buttonLogout">

@@ -6,35 +6,35 @@ export default function CustomerOrderDetailsTableWrapper(
   { status, date, orderNumber, children, setDelivered },
 ) {
   return (
-    <div className={styles.customerOrderContainer}>
+    <div className={ styles.customerOrderContainer }>
       <div>
         <span
           data-testid="customer_order_details__element-order-details-label-order-id"
         >
           Pedido
-          {orderNumber}
+          { orderNumber }
         </span>
         <span
           data-testid="customer_order_details__element-order-details-label-order-date"
         >
-          {date}
+          { date }
         </span>
         <span
           data-testid="customer_order_details__element
             -order-details-label-delivery-status"
         >
-          {status}
+          { status }
         </span>
         <button
-          disabled={status === 'Entregue'}
+          disabled={ status === 'Entregue' }
           data-testid="customer_order_details__button-delivery-check"
-          onClick={setDelivered}
+          onClick={ setDelivered }
           type="button"
         >
           ENTREGUE
         </button>
       </div>
-      {children}
+      { children }
     </div>
   );
 }

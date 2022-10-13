@@ -6,10 +6,10 @@ function botaoVerdeEscuro({ placeholder, click, isDisabled }) {
   return (
 
     <button
-      disabled={isDisabled}
+      disabled={ isDisabled }
       className="botaoVerdeEscuro"
       type="button"
-      onClick={click}
+      onClick={ click }
       data-testid="customer_products__button-cart"
     >
       <p>
@@ -18,7 +18,8 @@ function botaoVerdeEscuro({ placeholder, click, isDisabled }) {
       <p
         data-testid="customer_products__checkout-bottom-value"
       >
-        R$ {(placeholder.toFixed(2)).replace('.', ',')}
+        R$
+        { (placeholder.toFixed(2)).replace('.', ',') }
       </p>
     </button>
 
