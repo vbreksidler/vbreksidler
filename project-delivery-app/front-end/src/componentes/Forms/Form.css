@@ -166,12 +166,12 @@
 .buttonLogout {
   margin: 10px;
   box-shadow: 1px 1px 1px 1px lightslategray;;
-  background-color: #fdbc02;
+  background-color: red;
   border-radius: 5px;
   padding: 5px;
   font-family: inherit;
   font-size: 1rem;
-  color: black;
+  color: white;
   margin-bottom: 1px;
 }
 

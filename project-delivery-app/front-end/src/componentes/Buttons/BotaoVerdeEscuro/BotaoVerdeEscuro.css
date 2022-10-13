@@ -3,7 +3,7 @@
   font-family: inherit;
   font-size: 1.1rem;
   font-weight: 600;
-  background-color: yellow;
+  background-color: #66ff00;
   border-radius: 5px;
   border: none;
   bottom: 10px;
@@ -14,5 +14,5 @@
 }
 
 .botaoVerdeEscuro:hover{
-  background-color: red;
+  background-color: #d1ffb3;
 }

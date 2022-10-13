@@ -1,6 +1,5 @@
-Ações: Cores diferente
-informação: cores diferente
-botao de finalizar
+trocar a cor do botao remover
+botao de finalizar verde
 
 Paleta:
 
