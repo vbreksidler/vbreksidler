@@ -7,7 +7,7 @@ export default function CustomerOrderDetailsTableWrapper(
 ) {
   return (
     <div className={ styles.customerOrderContainer }>
-      <div>
+      <div className={ styles.customerOrderDetails }>
         <span
           data-testid="customer_order_details__element-order-details-label-order-id"
         >

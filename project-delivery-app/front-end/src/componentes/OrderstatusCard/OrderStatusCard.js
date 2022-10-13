@@ -30,6 +30,7 @@ export default function OrderStatusCard({ id,
             data-testid={ `${prefixId}__element-delivery-status-id-${id}` }
           >
             Status:
+            {' '}
             { status }
           </span>
           <span
@@ -37,6 +38,7 @@ export default function OrderStatusCard({ id,
             className={ styles.statusDetail }
           >
             Data:
+            {' '}
             { date.replace('Z', ' ').replace('T', ' HORA: ').replace('.000', ' ') }
           </span>
           <span
@@ -53,6 +55,7 @@ export default function OrderStatusCard({ id,
             data-testid={ `${prefixId}__element-card-address-${id}` }
           >
             Endereço:
+            {' '}
             { address }
           </span>
         </div>
