@@ -3,53 +3,60 @@ import React from 'react';
 import formatToPrice from '../../helpers/formatToPrice';
 import styles from './styles.module.scss';
 
-
 export default function TableRowItems(
   { testIdPrefix, itemNumber, description, quantity, unityValue, subTotal },
 ) {
   return (
-    <div className={styles.CustomerCardContainer}>
+    <div className={ styles.CustomerCardContainer }>
       <td
         data-testid={
           `${testIdPrefix}__element-order-table-item-number-${itemNumber - 1}`
         }
-      >Produto nº:{' '} 
+      >
+        Produto nº:
+        {' '}
         {itemNumber}
-        {'.'}
+        .
       </td>
       <td
         data-testid={
           `${testIdPrefix}__element-order-table-name-${itemNumber - 1}`
         }
-      >Produto: {' '}
+      >
+        Produto:
+        {' '}
         {description}
-        {'.'}
+        .
       </td>
       <td
         data-testid={
           `${testIdPrefix}__element-order-table-quantity-${itemNumber - 1}`
         }
-      >Quantidade: {' '}
+      >
+        Quantidade:
+        {' '}
         {quantity}
-        {'.'}
+        .
       </td>
       <td
         data-testid={
           `${testIdPrefix}__element-order-table-unit-price-${itemNumber - 1}`
         }
       >
-        Valor un. :R$ {' '}
+        Valor un.: R$
+        {' '}
         {formatToPrice(unityValue)}
-        {'.'}
+        .
       </td>
       <td
         data-testid={
           `${testIdPrefix}__element-order-table-sub-total-${itemNumber - 1}`
         }
       >
-        Subtotal: $ {' '}
+        Subtotal: R$
+        {' '}
         {formatToPrice(subTotal)}
-        {'.'}
+        .
       </td>
     </div>
   );

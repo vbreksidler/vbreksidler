@@ -5,11 +5,11 @@ import { Link } from 'react-router-dom';
 export default function NavBarLink({ name, path, dataTestId }) {
   return (
     <div className="FlexContainerNav">
-      <Link to={path}>
+      <Link to={ path }>
         <button
           className="botaoNav"
           type="button"
-          data-testid={dataTestId}
+          data-testid={ dataTestId }
         >
           {name}
         </button>

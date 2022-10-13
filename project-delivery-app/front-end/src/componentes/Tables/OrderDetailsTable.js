@@ -5,7 +5,7 @@ import styles from './styles.module.scss';
 
 export default function OrderDetailsTable({ userType, orders }) {
   return (
-    <div className={styles.container}>
+    <div className={ styles.container }>
       <table>
         <thead>
           <tr>
