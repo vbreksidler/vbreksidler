@@ -6,7 +6,7 @@
 </h1>
 _____________________________________________________
 
-- :telescope: Estou trabalhando como Desenvolvedor de Software FullStack e contribuindo com frontend e backend para construção de aplicações web.
+- :telescope: Estou atuando como Desenvolvedor FullStack para construção de aplicações web.
 
 - :seedling: Estudante de Desenvolvimento de Software | Trybe
 
@@ -24,9 +24,9 @@ _____________________________________________________
 _______________________________________________________
 
 
-- :telescope: I’m working as a Software Developer FullStack and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a FullStack Software Developer and contributing for building web applications.
 
-- :seedling: Student in Trybe Online Programming School
+- :seedling: Student at Trybe Online Programming School
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
