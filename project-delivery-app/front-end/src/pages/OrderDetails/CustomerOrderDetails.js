@@ -18,7 +18,7 @@ export default function CustomerOrderDetails() {
   useEffect(() => {
     api.get(`/sales/${+orderId.id}`)
       .then((response) => setOrder(response.data));
-  }, []);
+  }, [disabled]);
 
   const handleDelivered = async () => {
     try {

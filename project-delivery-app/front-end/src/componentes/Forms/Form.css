@@ -24,8 +24,15 @@
 }
 
 .AdminForm {
+  border-radius: 5px;
+  border-bottom: 1px transparent black;
+  border-right: 1px transparent black;
+  box-shadow: 1px 1px 1px 1px lightslategray;;
+  flex-wrap: wrap;
+  height: 90%;
+  display: flex;
+  margin: 30px;
   align-items: center;
-  box-shadow: 0 3px 10px #b5b5b5;
   justify-content: center;
   padding: 10px;
 }
@@ -67,7 +74,9 @@
   width: 250px;
 }
 
-.Button {
+.Button {  
+  font-family: inherit;
+  font-size: 1rem;
   border: none;
   font-family: inherit;
   font-size: 1rem;
@@ -82,14 +91,14 @@
 }
 
 .ButtonLogin {
-  background-color: white;
+  background-color: #66ff00;
   border: 1px solid #b1c2be;
-  color: #3e4758;
+  color: black;
 }
 
 .ButtonLogin:hover{
   color: black;
-  background: #ffcf4f;
+  background-color: green-yellow;
 }
 
 .ButtonRegister {
@@ -154,12 +163,12 @@
   padding: 10px;
   background-color: #fdbc02;
   position: fixed;
-  top: 5px;
+  top: 25px;
   align-items: left;
   display: flex;
   justify-content: left;
   position: absolute;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-top: 10px;
 }
 
