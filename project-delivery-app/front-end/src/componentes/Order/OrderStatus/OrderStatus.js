@@ -8,7 +8,7 @@ const orderStatusOptions = {
   entregue: 'entregue',
 };
 
-function OrderStatus({ value = orderStatusOptions.pendente, dataTestid }) {
+function OrderStatus({ value = orderStatusOptions, dataTestid }) {
   return (
     <div
       data-testid={ dataTestid }

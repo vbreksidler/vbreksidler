@@ -73,6 +73,7 @@ function FormRegister() {
           value={ password }
         />
         <button
+          className="ButtonLogin"
           type="submit"
           disabled={ isDisableBtn }
           data-testid="common_register__button-register"

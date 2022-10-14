@@ -1,15 +1,29 @@
-span {
+.customerOrderSpan,
+.customerOrderSpanDelivered,
+.deliveredOK,
+.deliveredPreparing{
+  width: 100px;
+  padding: 15px;
   background-color: #fdbc02;
-  align-items: left;
   justify-content: space-between;
-  margin: 2px;
+  text-align: center;
   padding-inline: 2px;
   flex-wrap: wrap;
   margin: 5px;
   border-radius: 5px;
-  border-bottom: 1px transparent black;
-  border-right: 1px transparent black;
   box-shadow: 1px 1px 1px 1px lightslategray;;
+}
+
+.customerOrderSpanDelivered{
+  background-color: #ff0000;
+}
+
+.deliveredOK{
+  background-color: #66ff00;
+}
+
+.deliveredPreparing{
+  background-color: #fdbc02;
 }
 
 th{
@@ -63,11 +77,15 @@ th{
   border-radius: 4px;
 }
 
-button:hover{
-  background: #ffcf4f ;
+.deliverdButton:disabled{
+  display: none;
 }
 
-button{
+button:hover{
+  background: greenyellow ;
+}
+
+button, .deliverdButton{
   justify-content: space-between;
   border: none;
   font-family: inherit;
@@ -80,5 +98,5 @@ button{
   padding: 5px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #fdbc02 ;
+  background-color: #66ff00;
 }

@@ -92,7 +92,7 @@ function FormRegister() {
             type="submit"
             disabled={ isDisableBtn }
             data-testid="common_register__button-register"
-            className="Button ButtonRegister"
+            className="Button ButtonLogin"
           >
             CADASTRAR
           </button>
