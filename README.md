@@ -14,7 +14,7 @@ _____________________________________________________
 
 - :guitar: Meu perfil artístico: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
-- 📂 Meu portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifoliovbr.herokuapp.com/)
+- 📂 Meu portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://vbreksidler.github.io/portifoliovbr/)
 
 <h1>
   <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
@@ -34,7 +34,7 @@ _______________________________________________________
 
 - :guitar: My art profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
-- 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifoliovbr.herokuapp.com/)
+- 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://vbreksidler.github.io/portifoliovbr/)
 
 <p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbreksidler&theme=radical&show_icons=true&locale=en&layout=compact" alt="vbreksidler" /></p>
 
