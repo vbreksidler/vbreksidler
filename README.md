@@ -38,6 +38,8 @@ _______________________________________________________
 
 ______________________________________________________________
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbreksidler&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
