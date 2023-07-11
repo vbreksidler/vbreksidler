@@ -36,14 +36,6 @@ _______________________________________________________
 
 - 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://vbreksidler.github.io/portifoliovbr/)
 
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbreksidler&theme=radical&show_icons=true&locale=en&layout=compact" alt="vbreksidler" /></p>
-
-<div align="center" dir="auto">
-  <img position="fixed" align="left" src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="26%" height="245"/>
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50%" height="250"/>
-  <img position="fixed" align"right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20%" height="240"/>
-</div>
-
 ______________________________________________________________
 
 <div>
