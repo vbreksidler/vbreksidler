@@ -14,7 +14,7 @@ _____________________________________________________
 
 - :guitar: Meu perfil artístico: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
-- 📂 Meu portifolio : [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](vbreksidler.com/)
+- 📂 Meu portifolio : [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)]([vbreksidler.com/](https://vbreksidler.com/))
 
 <h1>
   <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
@@ -34,7 +34,7 @@ _______________________________________________________
 
 - :guitar: My art profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
-- 📂 My portifolio (upgrading): [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](vbreksidler.com/)
+- 📂 My portifolio (upgrading): [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)]([vbreksidler.com/](https://vbreksidler.com/))
 
 ______________________________________________________________
 
