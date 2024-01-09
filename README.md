@@ -34,7 +34,7 @@ _______________________________________________________
 
 - :guitar: My art profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
-- 📂 My portifolio (upgrading): [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://vbreksidler.com/)
+- 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://vbreksidler.com/)
 
 ______________________________________________________________
 
