@@ -6,9 +6,9 @@
 </h1>
 _____________________________________________________
 
-- :telescope: Estou atuando como Desenvolvedor FullStack para construção de aplicações web.
+- :telescope: Estou atuando como Desenvolvedor Front-End para construção de aplicações web na empresa MarQ.
 
-- :seedling: Estudante de Desenvolvimento de Software | Salesforce - OSF Academy 
+- :seedling: Estudante de Desenvolvimento de Software | Trybe
 
 - :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
@@ -26,9 +26,9 @@ _____________________________________________________
 _______________________________________________________
 
 
-- :telescope: I’m working as a FullStack Software Developer and contributing for building web applications.
+- :telescope: I’m working as a Front-End Software Developer and contributing for building web applications in MarQ.
 
-- :seedling: Student at Salesforce - OSF Academy
+- :seedling: Student at Trybe.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
