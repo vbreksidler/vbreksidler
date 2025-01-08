@@ -8,7 +8,7 @@ _____________________________________________________
 
 - :telescope: Estou atuando como Desenvolvedor em projetos pessoais.
 
-- :seedling: Estudante de Desenvolvimento de Software | Trybe
+- :seedling: Estudante de Analise e Desenvolvimento de Sistemas na PUC/PR.
 
 - :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
@@ -28,7 +28,7 @@ _______________________________________________________
 
 - :telescope: I’m working as Software Developer in personal projects..
 
-- :seedling: Student at Trybe.
+- :seedling: Student at PUC/PR.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
