@@ -6,7 +6,7 @@
 </h1>
 _____________________________________________________
 
-- :telescope: Estou atuando como Desenvolvedor Front-End para construção de aplicações web na empresa MarQ.
+- :telescope: Estou atuando como Desenvolvedor em projetos pessoais.
 
 - :seedling: Estudante de Desenvolvimento de Software | Trybe
 
@@ -26,7 +26,7 @@ _____________________________________________________
 _______________________________________________________
 
 
-- :telescope: I’m working as a Front-End Software Developer and contributing for building web applications in MarQ.
+- :telescope: I’m working as Software Developer in personal projects..
 
 - :seedling: Student at Trybe.
 
