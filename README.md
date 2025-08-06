@@ -12,7 +12,7 @@ _____________________________________________________
 
 - :mailbox: Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
-- :guitar: Meu perfil artístico: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
+- :guitar: Meu perfil: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
 - 📂 Meu portifolio : [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifolio-three-d.vercel.app)
 
@@ -32,7 +32,7 @@ _______________________________________________________
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
 
-- :guitar: My art profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
+- :guitar: My profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
 
 - 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifolio-three-d.vercel.app)
 
