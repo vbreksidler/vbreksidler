@@ -6,7 +6,7 @@
 </h1>
 _____________________________________________________
 
-- :telescope: Estou atuando como Desenvolvedor em projetos pessoais.
+- :telescope:Estudante de desenvolvimento em busca de uma oportunidade na área.
 
 - :seedling: Estudante de Analise e Desenvolvimento de Sistemas na PUC/PR.
 
@@ -26,7 +26,7 @@ _____________________________________________________
 _______________________________________________________
 
 
-- :telescope: I’m working as Software Developer in personal projects..
+- :telescope: Development student looking for an opportunity in the field.
 
 - :seedling: Student at PUC/PR.
 
