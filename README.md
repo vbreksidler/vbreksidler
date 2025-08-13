@@ -16,28 +16,6 @@ _____________________________________________________
 
 - 📂 Meu portifolio : [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifolio-three-d.vercel.app)
 
-<h1>
-  <img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30px"/>
-  Hello World
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  my name is Victor!
-</h1>
-
-_______________________________________________________
-
-
-- :telescope: Development student looking for an opportunity in the field.
-
-- :seedling: Student at PUC/PR.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vreksidler/)
-
-- :guitar: My profile: [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vitao_reks/)
-
-- 📂 My portifolio: [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-yellow?style=flat&logo=Portifolio&logoColor=black)](https://portifolio-three-d.vercel.app)
-
-______________________________________________________________
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbreksidler&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
